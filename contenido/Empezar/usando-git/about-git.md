@@ -22,7 +22,7 @@ Developers can review project history to find out:
 - Which changes were made?
 - Who made the changes?
 - When were the changes made?
-- Why were changes needed?
+- Why were changes needed?hola
 
 VCSs give each contributor a unified and consistent view of a project, surfacing work that's already in progress. Seeing a transparent history of changes, who made them, and how they contribute to the development of a project helps team members stay aligned while working independently.
 
